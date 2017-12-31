@@ -1,0 +1,15 @@
+{
+    "plugins": ["adsense", "ga"],
+    "pluginsConfig": {
+      "adsense": {
+        "client": "ca-pub-1537305666483956",
+        "slot": "7196336110",
+        "format": "auto",
+        "element": ".page-inner section",
+        "position": "top"
+      },
+      "ga": {
+        "token" : "UA-41121759-10"
+      }
+    }
+}
