@@ -22,3 +22,17 @@ npm start
 ```
 
 개발서버를 시작하게 되며 터미널에 QR코드를 출력하게 될 것 입니다.
+
+### React Native 어플리케이션 실행
+
+iOS나 Android 폰에 [Expo](https://expo.io/) 클라이언트 앱을 설치하고 컴퓨터와 동일한 네트워크에 접속을 합니다. Expo 앱을 이용하여 터미널에 표시되는 QR 코드를 스캔하시면 프로젝트가 실행됩니다.
+
+#### 어플리케이션 수정하기
+
+성공적으로 어플리케이션이 실행되면, 수정해보겠습니다. `App.js` 파일을 열고 일부 라인을 수정합니다. 수정사항을 저장하면 어플리케이션이 자동으로 재기동될 것 입니다.
+
+#### 이것이 전부입니다!
+
+축하합니다! 첫번째 React Native 어플리케이션에 대한 실행과 수정을 완료하였습니다.
+
+![](https://facebook.github.io/react-native/docs/assets/GettingStartedCongratulations.png)
