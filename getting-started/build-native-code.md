@@ -6,7 +6,11 @@
 
 ## Android
 
+### macOS
+
 ### Windows
+
+### Linux
 
 ## iOS
 
